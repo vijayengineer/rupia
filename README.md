@@ -2,4 +2,4 @@
 Stablecoin based on INR backed by DAI
 Ethonline hackathon
 
-![Problem](/assets/rupiah2.png)
+![Problem](/assets/rupia2.png)
