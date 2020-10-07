@@ -1,5 +1,5 @@
 # rupia
-Stablecoin based on INR backed by DAI
+Stablecoin based on INR 
 Ethonline hackathon
 
 ![Problem](/assets/rupia2.png)
