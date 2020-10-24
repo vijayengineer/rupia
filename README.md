@@ -9,4 +9,4 @@ The project was built as follows:
 4. React frontend to show the process flow
 
 ![Problem](/assets/rupia2.png)
-![Architecture] (/assets/architecture.png)
+![Architecture](/assets/architecture.png)
